@@ -12,8 +12,6 @@
 I ran a marathon 🏃 and I'm really proud of it. 
 I love skiing and hiking 🏔️.
 I play the saxophone 🎷, have a pilot licence 🛩️ and enjoy art 🎨.
-
-<br/>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
