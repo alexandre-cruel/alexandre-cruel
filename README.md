@@ -1,9 +1,9 @@
 <h1 align="center> Hello there 👋, I'm Alexandre </h1>
 <h3 align="center"> I'm a Machine Learning Engineer and I love to learn about Artificial Intelligence and Data. </h3>
 
-- 🧑‍💻 I'm currently working at National Bank of Canada 🏦.
-- 🔭 I’m currently developing:  **my portfolio**.
-- 🌱 I’m currently learning Golang.
+- 🧑‍💻 I'm currently working at MoovAI 🖥️.
+- 🔭 I’m practicing developing:  **apps and websites**.
+- 🌱 I’m currently learning JS.
 
 - 📫 How to reach me: <br/>
 <a href="https://www.linkedin.com/in/alexandre-cruel-3a89ab153/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIn" width="40" height="40"/> </a> <a href="mailto:alexandre.crucru@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" alt="Mail" width="42" height="42"/> </a> </p>
