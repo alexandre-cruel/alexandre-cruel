@@ -8,10 +8,10 @@
 - 📫 How to reach me: <br/>
 <a href="https://www.linkedin.com/in/alexandre-cruel-3a89ab153/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedIn" width="40" height="40"/> </a> <a href="mailto:alexandre.crucru@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png" alt="Mail" width="42" height="42"/> </a> </p>
  
-- ⚡ Fun facts: 
-I ran a marathon 🏃 and I'm really proud of it. 
-New crossfitter!
-I love skiing and hiking 🏔️.
+- ⚡ Fun facts: <br/>
+I ran a marathon 🏃 and I'm really proud of it. <br/>
+🏋️ CrossFit enthusiast. <br/>
+I love skiing and hiking 🏔️. <br/>
 I play the saxophone 🎷, have a pilot licence 🛩️ and enjoy art 🎨.
 <br/>
 
