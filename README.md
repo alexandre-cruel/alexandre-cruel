@@ -1,7 +1,7 @@
 <h1 align="center> Hello there 👋, I'm Alex </h1>
 <h3 align="center"> I'm a Machine Learning Engineer and I love to learn about AI, Data, Software Engineering or Science in general. </h3>
 
-- 🧑‍💻 I'm currently working at Lalilo 🖥️.
+- 🧑‍💻 I'm currently working at Lalilo 🖥️, using AI and data to help children learning to read.
 - 🔭 I’m practicing developing: **AI models and apps**.
 - 🌱 I’m currently learning Japanese, yes I'm not only coding stuff.
 
