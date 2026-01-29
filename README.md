@@ -11,7 +11,7 @@
 - ⚡ Fun facts: <br/>
   Marathons : New York City 2️⃣0️⃣1️⃣9️⃣, Paris 2️⃣0️⃣2️⃣5️⃣. <br/>
   🏋️ CrossFit enthusiast. <br/>
-  I love skiing and hiking 🏔️. <br/>
+  I love skiing, scuba-diving and hiking 🏔️. <br/>
   I play the saxophone 🎷, have a pilot licence 🛩️ and enjoy art 🎨.
   <br/>
 
@@ -39,13 +39,9 @@
 
 ## My GitHub Stats 📊
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandre-cruel)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alexandrecruel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alexcruelcoffee" /></a></p><br><br>
